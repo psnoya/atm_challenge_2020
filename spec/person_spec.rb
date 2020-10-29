@@ -1,6 +1,5 @@
 require './lib/person.rb'
 #require './lib/account.rb'
-require 'pry'
 
 describe Person do
         
