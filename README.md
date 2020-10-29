@@ -1,4 +1,4 @@
-# The Code
+# The Code 
 
 The program is a virtual ATM machine made in Ruby whit Rspec
 testing framework and a fake user and account
